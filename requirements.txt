@@ -1,0 +1,8 @@
+streamlit==1.37.0
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.11
+wikipedia-api
+requests==2.31.0
+python-dotenv==1.0.1
+huggingface_hub
