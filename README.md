@@ -36,21 +36,25 @@ It combines **structured APIs** and **Wikipedia** to provide information in a re
 1. Clone the repository  
     ```bash
    git clone https://github.com/j-swaminathan/city_explorer.git
-   cd city_explorer ```
+   cd city_explorer 
+   ```
 
 2. Create and activate a virtual environment:
    ```bash
   python3 -m venv venv
     source venv/bin/activate   # macOS/Linux
-    venv\Scripts\activate      # Windows ```
+    venv\Scripts\activate      # Windows 
+    ```
 
 3. Install requirements:
     ```bash
-   pip install -r requirements.txt ```
+   pip install -r requirements.txt 
+   ```
 
 4. Run the app:
     ```bash 
-streamlit run city_info_finder.py ```
+    streamlit run city_info_finder.py 
+    ```
 
 
 Enter a city name and explore its details!
