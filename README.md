@@ -40,8 +40,8 @@ It combines **structured APIs** and **Wikipedia** to provide information in a re
    ```
 
 2. Create and activate a virtual environment:
-   ```bash
-  python3 -m venv venv
+    ```bash
+    python3 -m venv venv
     source venv/bin/activate   # macOS/Linux
     venv\Scripts\activate      # Windows 
     ```
